@@ -38,3 +38,9 @@ If you need support or have questions, contact the developer on WhatsApp:
 **Developer WhatsApp:** https://wa.me/201286016083
 
 ---
+## ⭐ Support
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Support-Buy%20Me%20A%20Coffee-yellow.svg)](https://buymeacoffee.com/onlineunknowns)
+
+------------------------------------------------------------------------
+
