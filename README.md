@@ -1,3 +1,20 @@
+# 🚀 Algeria BLS Appointment Bot
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Algeria+BLS+Automation+Bot;Smart+Appointment+Booking+System;Fast+Reliable+Scalable+Automation" />
+
+<br/>
+
+<img src="https://img.shields.io/github/stars/OnlineUnknowns/Mauritania-BLS-Bot?style=for-the-badge"/>
+<img src="https://img.shields.io/github/forks/OnlineUnknowns/Mauritania-BLS-Bot?style=for-the-badge"/>
+<img src="https://img.shields.io/github/last-commit/OnlineUnknowns/Mauritania-BLS-Bot?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
+
+</div>
+
+
 # BLS_Algeria_appointment_scripts
 Selfie Bypass 
 In this repository, I will upload all my scripts that I use to **book a VFS Algeria appointment automatically**.
